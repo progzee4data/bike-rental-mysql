@@ -1,3 +1,4 @@
+![Uploading 2026-09-24_13-51-24.png…]()
 # Zara Bike Rentals Database System
 
 A relational database project designed in MySQL to manage inventory, customer details, and rental operations for a bike rental business. This project covers database schema definition (DDL), data manipulation operations (DML), and external data ingestion from a CSV file using MySQL Workbench.
