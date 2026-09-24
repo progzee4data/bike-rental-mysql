@@ -1,0 +1,1 @@
+SELECT * FROM zara_bike_rentals.bikes;
