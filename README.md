@@ -67,3 +67,22 @@ WHERE rental_id = 3;
 DELETE FROM rentals 
 WHERE customer_id = 7 
   AND customer_id IS NOT NULL;
+```
+
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+* **Database Management System:** MySQL Server 8.0 & MySQL Workbench
+* **Language & Syntax:** Structured Query Language (SQL — DDL & DML)
+* **Data Import Utility:** MySQL Workbench Table Data Import Wizard
+
+---
+
+## 📌 Background & Context
+
+This project was completed as part of the **ALX Africa Data Science Program** to demonstrate practical relational database management, schema creation (DDL), data manipulation operations (DML), and external dataset ingestion using MySQL and MySQL Workbench.
+
+
+
